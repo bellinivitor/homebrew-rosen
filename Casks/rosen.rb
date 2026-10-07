@@ -1,8 +1,8 @@
 # Cask do Rosen: brew install --cask bellinivitor/rosen/rosen
 # Gerado pelo Scripts/release.sh do repositório bellinivitor/rosen; não edite à mão.
 cask "rosen" do
-  version "0.1.0-beta"
-  sha256 "b90190cdfc1c666f8d57f571174c33ff0ae6144cbcb9898a9782227063375b0e"
+  version "0.2.0-beta"
+  sha256 "ac2f610a170e5cbb9059d84c49bc2981958fe6e594a29b440b2997ce4a7cb8b4"
 
   url "https://github.com/bellinivitor/rosen/releases/download/v#{version}/Rosen-#{version}.zip"
   name "Rosen"
